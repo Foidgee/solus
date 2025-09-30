@@ -1,7 +1,0 @@
-local DA_HOOD_ID = 2788229376 
-
-if game.PlaceId == DA_HOOD_ID then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Foidgee/solus.cc/refs/heads/main/latest"))() 
-else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Foidgee/solus.cc/refs/heads/main/dh%20copies"))()
-end
