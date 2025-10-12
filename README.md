@@ -1,1 +1,1 @@
-# solus.cc
+# made with love by faisal and foidgee ❤️
