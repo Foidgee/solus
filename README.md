@@ -1,1 +1,1 @@
-# made with love by faisal and foidgee ❤️
+© © 2025 Solus. All rights reserved.
